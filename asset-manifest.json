@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/mannysfence/static/css/main.eba690f6.chunk.css",
+    "main.js": "/mannysfence/static/js/main.979a6cc4.chunk.js",
+    "main.js.map": "/mannysfence/static/js/main.979a6cc4.chunk.js.map",
+    "runtime-main.js": "/mannysfence/static/js/runtime-main.f496510d.js",
+    "runtime-main.js.map": "/mannysfence/static/js/runtime-main.f496510d.js.map",
+    "static/js/2.ddefdd9c.chunk.js": "/mannysfence/static/js/2.ddefdd9c.chunk.js",
+    "static/js/2.ddefdd9c.chunk.js.map": "/mannysfence/static/js/2.ddefdd9c.chunk.js.map",
+    "static/js/3.95a0d750.chunk.js": "/mannysfence/static/js/3.95a0d750.chunk.js",
+    "static/js/3.95a0d750.chunk.js.map": "/mannysfence/static/js/3.95a0d750.chunk.js.map",
+    "index.html": "/mannysfence/index.html",
+    "static/css/main.eba690f6.chunk.css.map": "/mannysfence/static/css/main.eba690f6.chunk.css.map",
+    "static/js/2.ddefdd9c.chunk.js.LICENSE.txt": "/mannysfence/static/js/2.ddefdd9c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f496510d.js",
+    "static/js/2.ddefdd9c.chunk.js",
+    "static/css/main.eba690f6.chunk.css",
+    "static/js/main.979a6cc4.chunk.js"
+  ]
+}
