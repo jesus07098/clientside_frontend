@@ -1,5 +1,4 @@
 import React from "react";
-import "./App.css";
 //STYLES
 import { makeStyles, withStyles } from "@material-ui/core/styles";
 //CORE
